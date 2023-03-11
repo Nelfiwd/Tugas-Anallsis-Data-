@@ -1,2 +1,2 @@
-# Tugas-Anallsis-Data-
+# Tugas-Analisis-Data-
 Tugas resume 1 Nelfi
